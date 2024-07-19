@@ -1,39 +1,20 @@
 {
 "SafishaBora":[
-      {
-        "id": "1",
-        "service_name":"Laundry",
-        "service provider": "Safish Bora",
-        "phonenumber": 768142201,
-        "description":"We offer a wide range of cleaning services, including:House Cleaning, Laundry Services, Office Cleaning, Office Cleaning",
-        "poster": "https://unsplash.com/photos/assorted-color-apparels-oa7pqZmmhuA"
-        },
-
-      {
-        "id": "2",
-        "Price_tag":"Pricing",
-        "service provider": "Safish Bora",
-        "phonenumber": 768142201,
-        "description":"We offer a wide range of cleaning services, including:House Cleaning, Laundry Services, Office Cleaning, Office Cleaning",
-        "poster": "https://unsplash.com/photos/assorted-color-apparels-oa7pqZmmhuA"
-        },
-
-      {
-        "id": "3",
-        "terms of service tag":"terms of service",
-        "service provider": "Safish Bora",
-        "phonenumber": 768142201,
-        "description":"We offer a wide range of cleaning services, including:House Cleaning, Laundry Services, Office Cleaning, Office Cleaning",
-        "poster": "https://unsplash.com/photos/assorted-color-apparels-oa7pqZmmhuA"
-        },
-
-      {
-        "id": "4",
-        "About tag":"about us",
-        "service provider": "Safish Bora",
-        "phonenumber": 768142201,
-        "description":"We offer a wide range of cleaning services, including:House Cleaning, Laundry Services, Office Cleaning, Office Cleaning",
-        "poster": "https://unsplash.com/photos/assorted-color-apparels-oa7pqZmmhuA"
+    {
+        "name": "House Cleaning",
+        "description": "From dusting to mopping, our team ensures every corner of your home is spotless."
+    },
+    {
+        "name": "Laundry Services",
+        "description": "We take care of your laundry needs, providing fresh, clean clothes without the hassle."
+    },
+    {
+        "name": "Office Cleaning",
+        "description": "Maintain a productive and healthy work environment with our specialized office cleaning services."
+    },
+    {
+        "name": "Specialty Cleaning",
+        "description": "Tailored cleaning solutions for specific needs, such as post-construction cleaning, deep cleaning, and more."
         }]}
 
       
