@@ -1,0 +1,39 @@
+{
+"SafishaBora":[
+      {
+        "id": "1",
+        "service_name":"Laundry",
+        "service provider": "Safish Bora",
+        "phonenumber": 768142201,
+        "description":"We offer a wide range of cleaning services, including:House Cleaning, Laundry Services, Office Cleaning, Office Cleaning",
+        "poster": "https://unsplash.com/photos/assorted-color-apparels-oa7pqZmmhuA"
+        },
+
+      {
+        "id": "2",
+        "Price_tag":"Pricing",
+        "service provider": "Safish Bora",
+        "phonenumber": 768142201,
+        "description":"We offer a wide range of cleaning services, including:House Cleaning, Laundry Services, Office Cleaning, Office Cleaning",
+        "poster": "https://unsplash.com/photos/assorted-color-apparels-oa7pqZmmhuA"
+        },
+
+      {
+        "id": "3",
+        "terms of service tag":"terms of service",
+        "service provider": "Safish Bora",
+        "phonenumber": 768142201,
+        "description":"We offer a wide range of cleaning services, including:House Cleaning, Laundry Services, Office Cleaning, Office Cleaning",
+        "poster": "https://unsplash.com/photos/assorted-color-apparels-oa7pqZmmhuA"
+        },
+
+      {
+        "id": "4",
+        "About tag":"about us",
+        "service provider": "Safish Bora",
+        "phonenumber": 768142201,
+        "description":"We offer a wide range of cleaning services, including:House Cleaning, Laundry Services, Office Cleaning, Office Cleaning",
+        "poster": "https://unsplash.com/photos/assorted-color-apparels-oa7pqZmmhuA"
+        }]}
+
+      
