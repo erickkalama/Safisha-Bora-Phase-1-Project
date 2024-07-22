@@ -1,20 +1,25 @@
 {
-"SafishaBora":[
-    {
+    "SafishaBora": [
+      {
         "name": "House Cleaning",
-        "description": "From dusting to mopping, our team ensures every corner of your home is spotless."
-    },
-    {
+        "description": "From dusting to mopping, our team ensures every corner of your home is spotless.",
+        "image": "https://images.unsplash.com/photo-1591573813523-1e43c5c8a5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDA0Nzl8MHwxfGFsbHwxfHx8fHx8fHwyNTMzMTU2MDY&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
         "name": "Laundry Services",
-        "description": "We take care of your laundry needs, providing fresh, clean clothes without the hassle."
-    },
-    {
+        "description": "We take care of your laundry needs, providing fresh, clean clothes without the hassle.",
+        "image": "https://images.unsplash.com/photo-1602520486883-44c5c047e1aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDA0Nzl8MHwxfGFsbHwxfHx8fHx8fHwyNTMzMTU2MDY&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
         "name": "Office Cleaning",
-        "description": "Maintain a productive and healthy work environment with our specialized office cleaning services."
-    },
-    {
+        "description": "Maintain a productive and healthy work environment with our specialized office cleaning services.",
+        "image": "https://images.unsplash.com/photo-1564866650-46e7d499d6a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDA0Nzl8MHwxfGFsbHwxfHx8fHx8fHwyNTMzMTU2MDY&ixlib=rb-1.2.1&q=80&w=1080"
+      },
+      {
         "name": "Specialty Cleaning",
-        "description": "Tailored cleaning solutions for specific needs, such as post-construction cleaning, deep cleaning, and more."
-        }]}
-
-      
+        "description": "Tailored cleaning solutions for specific needs, such as post-construction cleaning, deep cleaning, and more.",
+        "image": "https://images.unsplash.com/photo-1597225062861-6f77a6e5d5c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDA0Nzl8MHwxfGFsbHwxfHx8fHx8fHwyNTMzMTU2MDY&ixlib=rb-1.2.1&q=80&w=1080"
+      }
+    ]
+  }
+  
